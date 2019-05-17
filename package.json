@@ -1,0 +1,27 @@
+{
+  "name": "next-semanti-ui-react-starter",
+  "version": "0.0.1",
+  "description": "Starter template for Next.js and Semantic UI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest",
+    "test:dev": "jest --watch",
+    "export": "npm run build && next export"
+  },
+  "keywords": [
+    "Next.js",
+    "React",
+    "Semantic",
+    "UI"
+  ],
+  "author": "F.J. Genus",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
