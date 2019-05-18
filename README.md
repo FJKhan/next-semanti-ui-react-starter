@@ -1,6 +1,6 @@
-# :WIP: next-semanti-ui-react-starter
+# next-semanti-ui-react-starter
 
-This will be a starter kit for Next.js projects with Semantic UI React.
+This is a starter kit for Next.js projects with Semantic UI React.
 
 ## Getting Started
 
@@ -29,7 +29,10 @@ Start the server:
   ```
 
 
-Navigate to localhost:3000 in your browser, or specify a port for Next.js to run on using:
+Navigate to localhost:3000 in your browser
+
+Alternatively, specify a port for Next.js to run on using:
+
 ```
 npm run dev -- -p <your port here>
 ```
