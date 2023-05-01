@@ -19,13 +19,13 @@ Change directories:
 Run npm install:
 
   ```
-  npm install
+  yarn install
   ```
 
 Start the server:
 
   ```
-  npm run dev
+  yarn dev
   ```
 
 
@@ -34,5 +34,5 @@ Navigate to localhost:3000 in your browser
 Alternatively, specify a port for Next.js to run on using:
 
 ```
-npm run dev -- -p <your port here>
+yarn dev -p <your port here>
 ```
